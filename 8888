@@ -1,0 +1,27 @@
+<header>
+    <div class="container text-center">
+
+        <!-- Logo -->
+        <div class="logo">
+			  <h1><b>Bootstrap Profile Cards 2019</b></h1>
+        </div>
+
+        <h1>Pure CSS Profile Cards with Bootstrap</h1>
+
+    </div>
+</header>
+
+<div class="container">
+	<div class="row">
+		<div class="col-md-4">
+    <h4 class="text-center"><strong>STYLE 1</strong></h4>
+    <hr>
+    <div class="profile-card-2"><img src="http://envato.jayasankarkr.in/code/profile/assets/img/profile-2.jpg" class="img img-responsive">
+        <div class="profile-name">JOHN DOE</div>
+        <div class="profile-username">@Yasser Khaled</div>
+        <div class="profile-icons"><a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-linkedin"></i></a></div>
+    </div>
+</div>
+
+<div class="col-md-4">
+    <h4 class="text-center"><strong>
